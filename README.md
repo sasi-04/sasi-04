@@ -58,9 +58,15 @@
 
 # GitHub Stats
 
-<!-- Removed broken streak-stats (herokuapp). Keeping github-readme-stats cards which are hosted on Vercel. -->
+<!-- Added maintained streak-stats (demolab) along with github-readme-stats cards hosted on Vercel. -->
 
 <p align="center">
+  <!-- Streak stats (demolab maintained endpoint) -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sasi-04&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
+
+  <!-- GitHub readme stats (Vercel) -->
   <img src="https://github-readme-stats.vercel.app/api?username=sasi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasi-04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
