@@ -59,11 +59,12 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasi-04&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sasi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasi-04&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasi-04&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasi-04&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
